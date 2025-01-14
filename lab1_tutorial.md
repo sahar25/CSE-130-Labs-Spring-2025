@@ -1,6 +1,6 @@
 # CSE 130 Lab 1 Tutorial: ASCII Art in C
 
-## Deadline: [Insert deadline here]
+## Deadline: January, 24
 
 Welcome to your first lab for CSE 130! This is going to be a fun and engaging experience. For some of you, this might be your first programming assignment—exciting, right? 
 
@@ -29,9 +29,11 @@ Before we can write any code, let’s ensure you have the necessary tools:
 1. **Install an IDE (Integrated Development Environment):**
    - For this lab, we’ll use **Bloodshed Dev-C++**, as specified on the course Blackboard.
    - Note: Bloodshed requires **Windows OS**. Make sure you’ve installed it before proceeding.
-
+You can download it from  the following link (https://sourceforge.net/projects/embarcadero-devcpp/)
 2. **Setting up your IDE:**
-   - Once installed, your IDE should look like this: [Add image or describe appearance].
+   - Once installed, your IDE should look like this:
+     ![image](https://github.com/user-attachments/assets/a3738dbc-d18c-4e9e-bc89-4828a26a5491)
+
    - You’ll use it to create, compile, and run your first C program.
 
 ---
